@@ -3,9 +3,9 @@
 __a. PHP server scripts are surrounded by delimiters, which?__
 
 1. <&>…</&>
-2. <?php…?>
+2. \<?php…?>
 3. <script></script>
-4. <?php>…</?>
+4. \<?php>…</?>
 
 
 __b. How do you write “Hello World” in PHP?__
